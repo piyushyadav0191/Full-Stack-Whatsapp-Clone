@@ -1,0 +1,124 @@
+export default function FileIcon({ className }) {
+  return (
+    <svg
+      viewBox="0 0 88 110"
+      height={110}
+      width={88}
+      preserveAspectRatio="xMidYMid meet"
+      className={className}
+    >
+      <defs>
+        <path
+          d="M3 0h56.928a5 5 0 0 1 3.536 1.464l15.072 15.072A5 5 0 0 1 80 20.07V101a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3z"
+          id="a"
+        />
+      </defs>
+      <g transform="translate(4 3)" fill="none" fillRule="evenodd">
+        <use fill="#000" filter="url(#filter-3)" xlinkHref="#a" />
+        <use fill="#FFF" xlinkHref="#a" />
+        <path
+          strokeOpacity="0.08"
+          stroke="#000"
+          d="M3-.5h56.929a5.5 5.5 0 0 1 3.889 1.61l15.071 15.072a5.5 5.5 0 0 1 1.611 3.89V101a3.5 3.5 0 0 1-3.5 3.5H3A3.5 3.5 0 0 1-.5 101V3A3.5 3.5 0 0 1 3-.5z"
+          fill="url(#linearGradient-1)"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={28}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={33}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={38}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={43}
+          width={40}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={53}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={58}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={63}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={68}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={73}
+          width={52}
+          height={2}
+          rx="0.5"
+        />
+        <rect
+          fillOpacity="0.2"
+          fill="#000"
+          x={13}
+          y={78}
+          width={27}
+          height={2}
+          rx="0.5"
+        />
+        <path
+          d="M61.5.5v15a3 3 0 0 0 3 3h15"
+          strokeOpacity="0.12"
+          stroke="#000"
+          fill="#FFF"
+        />
+      </g>
+    </svg>
+  );
+}
