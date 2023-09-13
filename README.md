@@ -69,3 +69,4 @@ Before you begin, ensure you have met the following requirements:
     MongoDB
     Socket.io
     WebRTC
+    Redux toolkit
